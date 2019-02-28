@@ -1,6 +1,6 @@
 {
   "name": "react-siren-scripts",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "description": "Configuration and scripts for siren.",
   "repository": "demos-platform/create-react-app",
   "license": "MIT",
@@ -20,7 +20,8 @@
     "utils"
   ],
   "bin": {
-    "react-siren-scripts": "./bin/react-siren-scripts.js"
+    "react-scripts": "./bin/react-scripts.js",
+    "react-siren-scripts": "./bin/react-scripts.js"
   },
   "types": "./lib/react-app.d.ts",
   "dependencies": {
